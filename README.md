@@ -1,6 +1,6 @@
 # Merry Christmas
   
-The Wilson's have had quite the adventurous year. Mallory and Kyle's wedding was the high watermark for a year that saw many once-in-a-lifetime moments. For those unable to attend, it was truly one of the most beautiful occurrences that anyone has ever had the luxury to be a part of. It is hard not to be confiendent in the combined strength of such ernest, genuine, steadfast, and interesting families. 
+The Wilson's have had quite the adventurous year. Mallory and Kyle's wedding was the high watermark for a year that saw many once-in-a-lifetime moments. For those unable to attend, it was truly one of the most beautiful occurrences that anyone has ever had the luxury to be a part of. It is hard not to be confident in the combined strength of such ernest, genuine, steadfast, and interesting families. 
   
 Rather than sending out a letter to people that could be gone in an instant, this website is maintained using a form of version control called [git](https://en.wikipedia.org/wiki/Git) that enables everyone to contribute. Perhaps the biggest benefit to such an obtuse concept is that over time, as the story grows, this series of changes, edits, and commits can serve as an on-going record of the important things that happened that all may refer back to.
 
