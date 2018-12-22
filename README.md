@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Merry Christmas
+  
+The Wilson's have had quite the adventurous year. Mallory and Kyle's wedding was the high watermark for a year that saw many once-in-a-lifetime moments. For those unable to attend, it was truly one of the most beautiful occurrences that anyone has ever had the luxury to be a part of. It is hard not to be confiendent in the combined strength of such ernest, genuine, steadfast, and interesting families. 
+  
+Rather than sending out a letter to people that could be gone in an instant, this website is maintained using a form of version control called [git](https://en.wikipedia.org/wiki/Git) that enables everyone to contribute. Perhaps the biggest benefit to such an obtuse concept is that over time, as the story grows, this series of changes, edits, and commits can serve as an on-going record of the important things that happened that all may refer back to.
 
-You can use the [editor on GitHub](https://github.com/bryangw1/TeamWilsonia/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+As the new year comes and goes, I hope that we can all live by words that may as well be emblazoned on the Wilson sigil:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### *Do what's right, not what's easy.*
+  
+![image](https://user-images.githubusercontent.com/10615650/50370455-7b9cef00-056c-11e9-81e6-3e89cf20568e.png)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bryangw1/TeamWilsonia/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![image](https://user-images.githubusercontent.com/10615650/50370457-92434600-056c-11e9-9663-2459e8389f65.png)
