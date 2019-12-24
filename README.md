@@ -7,16 +7,16 @@ In adding upon last year's theme, I have added a few new features to this year's
 By opening up the Google Slides Presentation and adding a new slide for an event or moment that you want to highlight, those changes will be automatically update this website. Below are overviews for Allen and Sandy, Kyle and Mallory, myself, and the Stones. The only remaining step is for you to send me your email and then you are free to start adding whatever you want!
 
 ### Allen and Sandy
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTKFaiEhwi89XAd4fHKV-ooN6foE9PVpnP8nJw2IFma1vt59wee4e0iSut8cwhdMwfOaUtWSvKSM1Yu/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTKFaiEhwi89XAd4fHKV-ooN6foE9PVpnP8nJw2IFma1vt59wee4e0iSut8cwhdMwfOaUtWSvKSM1Yu/embed?start=false&loop=false&delayms=60000" frameborder="0" width="843" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Kyle and Mallory
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSEvM9RYkdT-iZTADZ3yqy0XzMk6sLQLJuazZUfGxZOe2yF6znzC2YngZ_jSnzZvk7nM613mNhbJP7x/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSEvM9RYkdT-iZTADZ3yqy0XzMk6sLQLJuazZUfGxZOe2yF6znzC2YngZ_jSnzZvk7nM613mNhbJP7x/embed?start=false&loop=false&delayms=60000" frameborder="0" width="843" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Bryan
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTR7sYkK0K9BQ6pi2onO0dnUWnQH6LiCrUMWDJiO2khz_wQu7bvhljjT0_08RtxREXn6d4XhlWgks4O/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTR7sYkK0K9BQ6pi2onO0dnUWnQH6LiCrUMWDJiO2khz_wQu7bvhljjT0_08RtxREXn6d4XhlWgks4O/embed?start=false&loop=false&delayms=60000" frameborder="0" width="843" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### The Stones
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSAb--foXj_JVw2czmHD6OfQcaaSJKuVDzaGtk06Sjcb-SjlTeEkMZ68TUC-soe7qQDmslQ-5TrIK-a/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSAb--foXj_JVw2czmHD6OfQcaaSJKuVDzaGtk06Sjcb-SjlTeEkMZ68TUC-soe7qQDmslQ-5TrIK-a/embed?start=false&loop=false&delayms=60000" frameborder="0" width="843" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 ## Merry Christmas 2018
