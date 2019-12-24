@@ -1,6 +1,6 @@
 # Team Wilsonia
 ## Merry Christmas 2019
-2019 wound up being a very busy year for the Wilsons. Allen and Sandy bought a new condo in Florida that they will be leasing through VRBO. Mallory and Kyle, in addition to remodeling their kitchen, have been traveling very frequently to weddings all over the place. And Bryan quit his job, traveled around Europe for a month, and started new work as the Editor-in-Chief for the [MIT Computational Law Report](https://law.mit.edu/). 
+2019 wound up being a very busy year for the Wilsons. Allen and Sandy bought a new condo in Florida that they will be leasing through [VRBO](https://www.vrbo.com/1778476?fbclid=IwAR0iZaIreG3OeZH9NefTc-hEQQSiP8NzcCwZnhRH1jpORqv1KzvNexEpWBw). Mallory and Kyle, in addition to remodeling their kitchen, have been traveling very frequently to weddings all over the place. And Bryan quit his job, traveled around Europe for a month, and started new work as the Editor-in-Chief for the [MIT Computational Law Report](https://law.mit.edu/). 
 
 In adding upon last year's theme, I have added a few new features to this year's edition of [teamwilsonia.com](http://teamwilsonia.com/). Most notably, there is now space for each of you to upload photos and descriptions of your past year for everyone to see.
 
